@@ -30,7 +30,7 @@ __Enjoy!__
 
 ## License?
 
-[Do what you want with it...](./LICENSE) license.
+[Do what you want with it](./LICENSE) license.
 
 ## Will it run under _whatever-OS_?
 
