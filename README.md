@@ -2,7 +2,7 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
-[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
 <br>
 
 Website: https://nisiddharth.github.io/Christmas-Bash-Script/
@@ -10,7 +10,7 @@ Website: https://nisiddharth.github.io/Christmas-Bash-Script/
 
 You know, a Christmas tree on Bash :)
 
-![Screenshot](./Screenshot.png?raw=true)
+![Screenshot](./Final_GIF.gif?raw=true)
 
 # Usage
 
