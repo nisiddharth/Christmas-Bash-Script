@@ -10,7 +10,7 @@ Website: https://nisiddharth.github.io/Christmas-Bash-Script/
 
 You know, a Christmas tree on Bash :)
 
-![Screenshot](./Final_GIF.gif?raw=true)
+![Screenshot](https://raw.githubusercontent.com/nisiddharth/Christmas-Bash-Script/master/Final_GIF.gif?raw=true)
 
 # Usage
 
