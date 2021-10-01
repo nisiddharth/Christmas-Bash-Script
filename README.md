@@ -46,4 +46,8 @@ Only GNU/Linux and Unix flavors (Or other OSes with Bash installed).
 
 ## What OS are you using?
 
-Windows 10 dual booted with MX Linux (Screenshot is from Windows 10 with Git Bash :neutral_face: ).
+Windows 10 dual booted with MX Linux (Screenshot is from Windows 10 with Git Bash :neutral_face: 😐).
+
+## Thank You!!!
+
+Pull requests are welcomed.
